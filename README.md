@@ -2,8 +2,8 @@
 
 ## Goal
 비트코인 가격기반예측 모델에 SNS 감성 점수를 Feature로 추가하여 예측 성능을 높이는 프로젝트 <br>
-Base Model: OHLCV + fluct + MA + ETC <br>
-Sentiment Model: OHLCV + fluct + MA + ETC + sentiment Feature <br>
+Base Model: OHLCV + fluct
+Sentiment Model: OHLCV + fluct + sentiment
 Sentiment Model > Base Model
 
 ## Data
@@ -54,18 +54,3 @@ Sentiment Model > Base Model
 - top comment: daily discussion 댓글
 - second comment: daily discussion 대댓글
 
-## Model
-
-![image](https://user-images.githubusercontent.com/28949162/160024932-f2fd6bdd-0a4e-42cb-8767-0fb77ae694e4.png)
-
-![image](https://user-images.githubusercontent.com/28949162/160024960-70671202-1e62-441e-a14e-f7018f7faf8e.png)
-
-## Problem
-- Sentiment Feature를 추가해도 성능이 좋아지지 않음.
-- 의미 없는 문장 Filtering
-- 
-
-## To Do List
-1. CryptoCurrency Subreddit 크롤링 과정에서 결측치가 많이 생기는 것 해결
-2. 대댓글 수집
-3. 필터링 문제
