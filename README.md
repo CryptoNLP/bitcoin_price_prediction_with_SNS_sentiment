@@ -49,8 +49,5 @@ Sentiment Model > Base Model
 
 ## Correlation between sentiment and btc price
 
-![image](https://user-images.githubusercontent.com/28949162/159929329-6f998394-0b59-4810-96a9-6a7bdece4103.png)
-
-- top comment: daily discussion 댓글
-- second comment: daily discussion 대댓글
+![가격_감성피쳐상관계수](https://user-images.githubusercontent.com/28949162/163505854-55408649-2db9-4fe5-bbc2-1e83f6fca991.PNG)
 
