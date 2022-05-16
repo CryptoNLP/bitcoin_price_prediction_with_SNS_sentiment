@@ -51,3 +51,9 @@ Sentiment Model > Base Model
 
 ![가격_감성피쳐상관계수](https://user-images.githubusercontent.com/28949162/163505854-55408649-2db9-4fe5-bbc2-1e83f6fca991.PNG)
 
+VADER
+
+![가격_감성피쳐상관계수_BERT](https://user-images.githubusercontent.com/28949162/168584252-43c41779-5212-43a1-8b6c-71d748af663b.png)
+
+BERT
+
